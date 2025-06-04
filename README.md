@@ -47,7 +47,7 @@ Authors: Syeda Ammal Asim and Maryam Qayyum
 5. Run the app:
    flutter run
 
-### Authors
+### 👩‍🎨 Authors
 Syeda Ammal Asim
 Maryam Qayyum
 
